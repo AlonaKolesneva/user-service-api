@@ -11,6 +11,6 @@ database/
 sessions/
 
 # Config
-config/*
-!config/example.config.js
-
+config/
+!config/config.example.js
+!config/passport.example.js
