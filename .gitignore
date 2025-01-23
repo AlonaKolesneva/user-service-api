@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+!.env.example
+
+# Database
+database/
+sessions/
+
+# Config
+config/*
+!config/example.config.js
+
